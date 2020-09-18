@@ -1,0 +1,7 @@
+.location_template_table tbody tr:nth-child(2n-1){
+    background-color:#dadada;
+}
+
+.location_template_table tbody tr {
+    cursor:pointer;
+}
