@@ -1,0 +1,13 @@
+.collection_Container{
+    overflow-y: hidden;    
+}
+
+.collection_Container_topbar{
+    position:fixed;
+}
+
+.collection_Container_body{
+    margin-top:35px;
+    overflow-y: auto;
+    height:100%;
+}
